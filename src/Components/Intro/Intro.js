@@ -45,11 +45,7 @@ function Intro() {
       ]}
 
     />
-    <span>Full-Stack Developer, a fresh graduate and with great skills in web designing
-            <br />and development, producting the Quality work. I am very hungry for learning to enhance
-            <br />my programming skills and reach new heights. And Now that I am a certified Full-Stack 
-            <br />Web Developer, I am now on a hunt for a company that will not only consider me as a mere 
-            <br />people but an asset that will help boost the company's success in no time.</span>
+    <span>I'm a Full Stack Web Developer Focusing on Frontend development with good analytical skills and webpages Responsive designing. I have experience in developing ecommerce website using MERN tech stack (MongoDB, Express.js, React.js, Node.js). I also engaged in several tools, languages, and frameworks such as: HTML, CSS, JavaScript, Bootstrap, Git bash, GitHub, Gitlab, Heroku, Postman, and Sublime Text.</span>
         </div> 
     <Link smooth={true} spy={true} to="Contact">
     <button className='button i-button' >

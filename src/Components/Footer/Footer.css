@@ -36,4 +36,7 @@
 		margin-top: -130px;
 
 	}
+	.f-content{
+    transform: scale(.5);
+  }
 }

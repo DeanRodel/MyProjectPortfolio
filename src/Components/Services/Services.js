@@ -4,7 +4,7 @@ import HeartEmoji from '../../img/heartemoji.png'
 import Glasses from '../../img/glasses.png'
 import Humble from '../../img/humble.png'
 import Card from '../Card/Card'
-import Resume from './MyResume.pdf'
+import Resume from './Resume-DeanRodelLegada.pdf'
 import {motion} from 'framer-motion'
 import {themeContext} from '../../Context'
 import {useContext} from 'react'
@@ -27,7 +27,7 @@ const Services = () => {
 				         <br />it enhace my skills to get this kind of knowledge I want.
 				        </span>
 					<a href={Resume} download>
-				<button className='button s-button'>Download CV</button>
+				<button className='button s-button'>Download Resume</button>
 				</a>
 				<div className='blur s-blur1' style={{background: '#ABF1FF94'}}></div>
 			</div>
